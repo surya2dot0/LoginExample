@@ -15,6 +15,8 @@ public class CityMaster {
 	private Integer cityId;
 	private String cityName;
 	private Integer countryId;
+	
+	
 	public Integer getCityId() {
 		return cityId;
 	}
